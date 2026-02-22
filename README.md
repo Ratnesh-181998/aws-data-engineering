@@ -75,7 +75,7 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
-## 🛠️ Module-wise & Class-wise Curriculum ( Live Content Coming Soon )
+## 🛠️ Module-wise & Class-wise Curriculum ( Live Content's Coming Soon )
 
 ### 📦 Module 1: SQL
 *   **Class 1: Introduction to Databases**
@@ -116,6 +116,10 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
     - Frame Clause
     - Coalesce Function
     - Common Table Expressions - Iterative and Recursive
+ 
+    <img width="944" height="1175" alt="image" src="https://github.com/user-attachments/assets/46ca3317-c016-435a-8b46-3cc540d7d735" />
+    <img width="889" height="649" alt="image" src="https://github.com/user-attachments/assets/a71d4bd4-2e0d-490d-bfc6-d72e91411a5a" />
+
 
 ### 📦 Module 2: BigData Fundamentals, Hadoop & Hive
 *   **Class 1: BigData & Hadoop Core**
@@ -143,7 +147,11 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
     - Static & Dynamic Partitioning
     - Bucketing
     - Joins: Map-Side, Bucket Map, Sorted Merge, Skew Join
+ 
+    <img width="1064" height="1313" alt="image" src="https://github.com/user-attachments/assets/9380c40a-1018-4a5d-b32d-696bae8a10aa" />
+    <img width="1038" height="437" alt="image" src="https://github.com/user-attachments/assets/99f40612-2750-4fe6-8707-879719608fc1" />
 
+   
 ### 📦 Module 3: Confluent Kafka
 *   **Class 1: Real-time Data Streaming**
     - Kafka Cluster Architecture: Brokers, Topics, Partitions
@@ -189,10 +197,10 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
     - Partition Key, Cluster Key, Row Key Declaration
     - Cassandra Setup Using Docker & DataStax
 
-  <img width="788" height="972" alt="image" src="https://github.com/user-attachments/assets/e9d517e4-a12a-41d8-bfa4-b150cb008950" />
-  <img width="1195" height="1211" alt="image" src="https://github.com/user-attachments/assets/6b4baf37-d1b5-400a-be4d-5f822f6e58c2" />
-  <img width="962" height="1072" alt="image" src="https://github.com/user-attachments/assets/568cd554-2fcd-4e57-870b-6d23dafa660c" />
-  <img width="954" height="969" alt="image" src="https://github.com/user-attachments/assets/59059c3e-36b9-4540-841a-0fdc739a91ff" />
+   <img width="788" height="972" alt="image" src="https://github.com/user-attachments/assets/e9d517e4-a12a-41d8-bfa4-b150cb008950" />
+   <img width="1195" height="1211" alt="image" src="https://github.com/user-attachments/assets/6b4baf37-d1b5-400a-be4d-5f822f6e58c2" />
+   <img width="962" height="1072" alt="image" src="https://github.com/user-attachments/assets/568cd554-2fcd-4e57-870b-6d23dafa660c" />
+   <img width="954" height="969" alt="image" src="https://github.com/user-attachments/assets/59059c3e-36b9-4540-841a-0fdc739a91ff" />
 
 
 ### 📦 Module 5: Apache Spark (PySpark)
@@ -221,6 +229,12 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
     - Output modes, Triggers, Checkpointing
     - Global & Windowed aggregation, Watermarking
     - Pipeline: Kafka Topic to MongoDB
+      
+   <img width="1176" height="1278" alt="image" src="https://github.com/user-attachments/assets/e82d34be-2cfe-40b3-8909-2dafe45b3565" />
+   <img width="1262" height="1168" alt="image" src="https://github.com/user-attachments/assets/3e9b9d30-fd9a-4425-b5d2-f40573a24c94" />
+   <img width="1058" height="1312" alt="image" src="https://github.com/user-attachments/assets/f004eff5-94ae-4f26-9d65-68c2cc5dea60" />
+   <img width="1117" height="637" alt="image" src="https://github.com/user-attachments/assets/7d2077f8-7bf6-4093-9731-b47a39e6bd1b" />
+   <img width="1358" height="1005" alt="image" src="https://github.com/user-attachments/assets/1e779596-0d93-4112-936c-f4c02409168b" />
 
 ### 📦 Module 6: Apache Airflow
 *   **Class 1: Pipeline Orchestration**
@@ -232,6 +246,8 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
     - Parallel task execution
     - Setup Airflow on GCP using Composer
     - End-to-End Exercise: Dataproc Cluster Management + PySpark Job
+      
+   <img width="1352" height="1137" alt="image" src="https://github.com/user-attachments/assets/85946fa5-534d-4fc1-bacb-c362bc1c1b4f" />
 
 ### 📦 Module 7: Databricks
 *   **Class 1: Cloud Data Intelligence**
@@ -243,6 +259,10 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
     - PySpark Notebook Setup & Volume Access
     - CRUD using DeltaTable Python API
     - Time travel & Delta Sharing
+ 
+    <img width="1223" height="1137" alt="image" src="https://github.com/user-attachments/assets/71c3aeef-4850-4025-abc7-53ed7ee9bfcd" />
+    <img width="1343" height="669" alt="image" src="https://github.com/user-attachments/assets/629e14bc-a68f-46cd-b213-08ec5ac249c3" />
+
 
 ### 📦 Module 8: Data Warehousing
 *   **Class 1: Data Modeling & Architecture**
@@ -253,6 +273,10 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
     - Star, Snowflake, and Galaxy Schema Design
     - **Case Study 1:** Expedia Advanced Modeling
     - **Case Study 2:** Swiggy Advanced Modeling
+
+    <img width="1217" height="650" alt="image" src="https://github.com/user-attachments/assets/e72c05f6-61ac-45b0-b959-e3a0ab16d424" />
+    <img width="1314" height="1093" alt="image" src="https://github.com/user-attachments/assets/4a58c250-dd4b-4cbf-834f-9f24b706b1b1" />
+
 
 ### 📦 Module 9: Snowflake & BigQuery
 *   **Class 1: Snowflake Cloud Warehouse**
@@ -267,6 +291,10 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
     - AI Features: Gemini AI assisted Query (Data Canvas)
     - Medallion Architecture Pipelines (Bronze, Silver, Gold)
     - Data Ingestion from GCP Pub-Sub via Dataflow
+      
+    <img width="1255" height="1162" alt="image" src="https://github.com/user-attachments/assets/1dc72de1-72d4-4aab-b072-988403c4a8f5" />
+    <img width="852" height="1158" alt="image" src="https://github.com/user-attachments/assets/c701547f-e77c-494e-b4e3-e323f596727f" />
+
 
 ### 📦 Module 10: AWS Cloud Services
 *   **Section 1: Core Infra**
@@ -285,12 +313,19 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
     - AWS Glue: Glue Catalog, Glue Crawler, Visual ETL, Job Bookmarks
     - Step Functions: Lambda Orchestration, Error Handling
     - EMR: Hive/Hadoop access, Spark jobs via EMRStepOperator
+      
+   <img width="1257" height="840" alt="image" src="https://github.com/user-attachments/assets/fccd76c9-fb7b-4243-b232-a222f9de556d" />
+   <img width="1262" height="843" alt="image" src="https://github.com/user-attachments/assets/3e32be05-8805-4d32-83e1-5a48b21bc25c" />
+   <img width="1104" height="1308" alt="image" src="https://github.com/user-attachments/assets/b7dd4532-4765-4396-a954-8608b4032833" />
 
 ### 📦 Module 11: Apache Iceberg & Hudi
 *   **Class 1: Modern Lakehouse Formats**
     - Small file problem & Open table format solutions
     - **Apache Iceberg:** Metadata layer vs Data Layer, CRUD operations, CoW vs MoR, Time Travel, Compaction
     - **Apache Hudi:** ACID Guarantees, Incremental Pipelines, Storage Layout, Snapshot/CDC Queries
+    <img width="1110" height="1241" alt="image" src="https://github.com/user-attachments/assets/7ce8dde4-74da-46df-93cc-04cdc13ce943" />
+    <img width="1134" height="1349" alt="image" src="https://github.com/user-attachments/assets/ba88df44-6890-44f3-8e95-dff95775b09b" />
+    <img width="1087" height="301" alt="image" src="https://github.com/user-attachments/assets/5e1a43f7-3d08-4f25-a515-fa9b2775d141" />
 
 ### 📦 Module 12: Apache Flink
 *   **Class 1: Real-time Stream Processing**
@@ -298,6 +333,8 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
     - Architecture: Job Manager, Task Managers, Parallelism
     - State Management & Checkpointing (Exactly-once)
     - Backpressure: Monitoring & Tackling
+   <img width="1082" height="1334" alt="image" src="https://github.com/user-attachments/assets/7abb5208-a47e-4ee6-bc9a-e8854e27ea2e" />
+   <img width="1100" height="711" alt="image" src="https://github.com/user-attachments/assets/9fc33c2c-45bb-420f-817e-437a9fff1b25" />
 
 ### 📦 Module 13: Industrial Projects (15 Projects)
 *   **✅ Project - 1: Flight Booking Data Pipeline with Airflow & CICD (Covered In Module 6)**
@@ -330,6 +367,9 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
     - Tech Stack: Python, AWS DynamoDB, AWS Kinesis, AWS Data Firehose, AWS Lambda, AWS S3, AWS Glue, AWS Glue Catalog
 *   **✅ Project - 15: Credit Card Transactional Analysis For Fraud Risk**
     - Tech Stack: Python, PySpark, Google Storage, GCP Dataproc Serverless, GCP BigQuery, GCP Composer (Airflow), PyTest, GitHub, GitHub Actions (For CI/CD)
+      
+<img width="1112" height="1302" alt="image" src="https://github.com/user-attachments/assets/293edead-0d9d-4473-a305-dbff25b38b79" />
+<img width="1103" height="534" alt="image" src="https://github.com/user-attachments/assets/65f5979c-e96b-4651-8689-0d97603fe3a8" />
 
 
 
