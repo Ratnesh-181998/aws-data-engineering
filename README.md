@@ -75,7 +75,7 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
-## 🛠️ Module-wise & Class-wise Curriculum
+## 🛠️ Module-wise & Class-wise Curriculum ( Live Content Coming Soon )
 
 ### 📦 Module 1: SQL
 *   **Class 1: Introduction to Databases**
