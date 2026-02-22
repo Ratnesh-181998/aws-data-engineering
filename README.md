@@ -158,6 +158,10 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
     - Working with JSON, CSV Data
     - GCP Pub-Sub Setup (Producer & Consumer)
 
+    <img width="1257" height="747" alt="image" src="https://github.com/user-attachments/assets/eb55c067-d239-4627-adfb-15574d1995b1" />
+    <img width="1112" height="858" alt="image" src="https://github.com/user-attachments/assets/99640caa-e2b7-4e93-9c89-1166e7911f70" />
+
+
 ### 📦 Module 4: NoSQL DataBase: MongoDB & Cassandra
 *   **Class 1: MongoDB Mastery**
     - CAP Theorem
@@ -167,6 +171,7 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
     - Data Replication, Write & Read Operation, Indexing
     - MongoDB Atlas & Compass Setup
     - Queries on MongoDB Collection from Python Application
+
 *   **Class 2: KSQLdb & Real-time NoSQL**
     - KSQLdb in Confluent Kafka
     - Streams & Tables in KSQLdb
@@ -174,6 +179,7 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
     - McDonald's Payments Stream data ingestion from Kafka to MongoDB
     - Setup windowed JOIN streams using KSQLdb
     - Setup MongoDB Sink Connector
+
 *   **Class 3: Apache Cassandra**
     - What is Apache Cassandra?
     - Cassandra vs Relational Database
@@ -182,6 +188,12 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
     - Consistency: Write & Read consistency in Cassandra
     - Partition Key, Cluster Key, Row Key Declaration
     - Cassandra Setup Using Docker & DataStax
+
+  <img width="788" height="972" alt="image" src="https://github.com/user-attachments/assets/e9d517e4-a12a-41d8-bfa4-b150cb008950" />
+  <img width="1195" height="1211" alt="image" src="https://github.com/user-attachments/assets/6b4baf37-d1b5-400a-be4d-5f822f6e58c2" />
+  <img width="962" height="1072" alt="image" src="https://github.com/user-attachments/assets/568cd554-2fcd-4e57-870b-6d23dafa660c" />
+  <img width="954" height="969" alt="image" src="https://github.com/user-attachments/assets/59059c3e-36b9-4540-841a-0fdc739a91ff" />
+
 
 ### 📦 Module 5: Apache Spark (PySpark)
 *   **Class 1: Spark Core Architecture**
