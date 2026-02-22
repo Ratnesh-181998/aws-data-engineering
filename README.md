@@ -39,6 +39,18 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
   <img src="https://img.shields.io/badge/AWS_Event_Bridge-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
+---
+
+## 🛠️ Key Technologies & Tech Stack
+
+- **💻 Languages:** `Python`, `SQL`
+- **☁️ Cloud Platforms:** `AWS` (Amazon Web Services), `GCP` (Google Cloud Platform)
+- **🐘 Big Data Fundamentals:** `Hadoop`, `Hive`, `Apache Spark` (PySpark)
+- **🌊 Real-time Streaming:** `Apache Kafka`, `Apache Flink`
+- **🗄️ NoSQL Databases:** `MongoDB`, `Apache Cassandra`
+- **❄️ Modern Data Stack:** `Snowflake`, `Google BigQuery`, `Databricks`
+- **⚙️ Data Orchestration:** `Apache Airflow`
+- **🚀 DevOps & CI/CD:** `GitHub Actions`
 
 ---
 
