@@ -13,9 +13,9 @@
 
 Master the art of Data Engineering with this comprehensive, **40-Session** project-driven course. Designed to take you from basic to advanced levels, this course covers the most in-demand technologies in the data world, focusing on AWS Cloud, Big Data, and Modern Data Stack.
 
-<img width="1299" height="814" alt="image" src="https://github.com/user-attachments/assets/77c13983-3a8c-41cf-80f5-daecdfb022d5" />
+<img width="1299" height="814" alt="image" src="assets/tech_stack_1.png" />
 
-<img width="1553" height="644" alt="image" src="https://github.com/user-attachments/assets/ec46f122-4c01-4968-86e8-e46943204aa6" />
+<img width="1553" height="644" alt="image" src="assets/tech_stack_2.png" />
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
