@@ -16,6 +16,23 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
 </p>
 
+<p align="center"><b>AWS Big Data Ecosystem</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Glue-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_EMR-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon_Kinesis-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazon-iam&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Step_Functions-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
 ---
 
 ## 🛠️ Module-wise & Class-wise Curriculum
