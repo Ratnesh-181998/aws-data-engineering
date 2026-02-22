@@ -367,9 +367,30 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
     - Tech Stack: Python, AWS DynamoDB, AWS Kinesis, AWS Data Firehose, AWS Lambda, AWS S3, AWS Glue, AWS Glue Catalog
 *   **✅ Project - 15: Credit Card Transactional Analysis For Fraud Risk**
     - Tech Stack: Python, PySpark, Google Storage, GCP Dataproc Serverless, GCP BigQuery, GCP Composer (Airflow), PyTest, GitHub, GitHub Actions (For CI/CD)
-      
+   
 <img width="1112" height="1302" alt="image" src="assets/module_image_31.png" />
 <img width="1103" height="534" alt="image" src="assets/module_image_32.png" />
+
+---
+
+## 🏗️ Industrial Projects (15+)
+
+| # | Project Name | Tech Stack |
+| :-- | :--- | :--- |
+| 1 | **Gadget Sales Projection** | DynamoDB CDC, Kinesis, Firehose, S3, Athena |
+| 2 | **Event-Driven Sales Analysis** | S3, EventBridge, Step Functions, Lambda, SQS, DynamoDB |
+| 3 | **Airlines Data Ingestion** | S3, Cloudtrail, Glue ETL, Redshift, Step Functions |
+| 4 | **Weather Data Analysis** | API, MWAA, Glue, Redshift, CodeBuild (CICD) |
+| 5 | **Quality Movie Data Analysis** | Glue Data Quality, PySpark ETL, Redshift, SNS |
+| 6 | **Food Delivery Analysis** | Kinesis, EMR, MWAA, Redshift, QuickSight, CodeBuild |
+| 7 | **Flight Booking Pipeline** | Airflow, GCS, PySpark, BigQuery, CICD |
+| 8 | **E-commerce Event Pipeline** | Databricks, PySpark, Delta Lake, Workflows |
+| 9 | **Travel Booking SCD2 WH** | PySpark, Unity Catalog, PyDeequ, Delta Lake |
+| 10 | **Healthcare Medallion Pipeline** | Databricks DLT, SQL, Expectations |
+| 11 | **UPI CDC Streaming** | Structured Streaming, Change Data Feed |
+| 12 | **News Data Incremental Load** | NewsAPI, Airflow, Snowflake, Python |
+| 13 | **Ad Tech Real-Time Analysis** | Kinesis, Managed Flink, Glue, Iceberg, Athena |
+| 14 | **Weather Forecast Pipeline** | OpenWeather API, Cloud Composer, Spark |
 
 
 
