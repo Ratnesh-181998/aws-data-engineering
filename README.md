@@ -393,7 +393,24 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
 | 14 | **Weather Forecast Pipeline** | OpenWeather API, Cloud Composer, Spark |
 
 
+---
 
+# 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗶𝗻 𝟮𝟬𝟮𝟲
+<img width="853" height="1315" alt="image" src="https://github.com/user-attachments/assets/5d263d78-8858-4442-86f7-3e33b7182bf1" />
+<img width="1756" height="1245" alt="image" src="https://github.com/user-attachments/assets/50f3ebfe-04e7-4787-8ecf-79a30738c994" />
+<img width="1447" height="1238" alt="image" src="https://github.com/user-attachments/assets/eb7c2f0a-e18d-4d48-ba8c-a1fc7c5e87fc" />
+<img width="1447" height="1228" alt="image" src="https://github.com/user-attachments/assets/d82905c7-d43c-4b1c-b2c9-6434a77bfe51" />
+<img width="1496" height="1232" alt="image" src="https://github.com/user-attachments/assets/cac985c6-89d8-44c1-a7fc-5833f14b9aa8" />
+<img width="1462" height="1252" alt="image" src="https://github.com/user-attachments/assets/ef5a55ee-e01e-40b3-94d7-fa13fd3c56a2" />
+<img width="1507" height="1278" alt="image" src="https://github.com/user-attachments/assets/7d5a624f-6465-4cda-bf49-6234727bd71c" />
+<img width="1415" height="1260" alt="image" src="https://github.com/user-attachments/assets/450b256a-dc0c-4221-acc8-907e82e40136" />
+<img width="1452" height="1230" alt="image" src="https://github.com/user-attachments/assets/a4c5cec6-d7f3-431e-add7-e3b2f896072b" />
+<img width="1431" height="1259" alt="image" src="https://github.com/user-attachments/assets/300e4d83-5f55-4def-916b-b1db786d4bf1" />
+<img width="1454" height="1211" alt="image" src="https://github.com/user-attachments/assets/5adb876c-562f-487f-a56d-4153b0a497ef" />
+<img width="1440" height="1284" alt="image" src="https://github.com/user-attachments/assets/ebd7862c-17c9-4e76-9f97-f0fcb815f254" />
+
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
