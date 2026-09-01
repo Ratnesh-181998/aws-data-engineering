@@ -412,6 +412,15 @@ Master the art of Data Engineering with this comprehensive, **40-Session** proje
 
 ---
 
+# Data Engineering Toolkits 
+
+<img width="1002" height="1184" alt="image" src="https://github.com/user-attachments/assets/11b9fe5b-691b-4736-964d-d2d86a7ec3da" />
+
+<img width="976" height="1238" alt="image" src="https://github.com/user-attachments/assets/9e4cedc5-2f3d-4d16-9910-13c6cf5c0708" />
+
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
